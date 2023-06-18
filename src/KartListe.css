@@ -1,0 +1,18 @@
+
+section.kart-liste {
+    font-family: sans-serif;
+}
+
+
+section.kart-liste img {
+    width: 100%;
+}
+
+div.kartlar {
+    display: flex;
+    gap: 1rem;
+}
+
+div.kartlar > div {
+    flex: 1;
+}
